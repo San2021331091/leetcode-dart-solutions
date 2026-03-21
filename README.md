@@ -32,17 +32,7 @@ For each problem:
 
 ---
 
-## 📈 Progress
 
-| Difficulty | Solved |
-|-----------|--------|
-| Easy      | XX     |
-| Medium    | XX     |
-| Hard      | XX     |
-
-> *Numbers updated as new problems are solved*
-
----
 
 ## 🤝 Contributing
 
