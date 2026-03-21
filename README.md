@@ -3,7 +3,7 @@
 ![Dart](https://img.shields.io/badge/Language-Dart-0175C2?logo=dart&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-F79F1F?logo=leetcode&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Issues](https://leetcode.com/u/beofYQAFUx/)
+
 
 > A collection of **LeetCode problem solutions** implemented in **Dart**, showcasing algorithmic thinking, data structures, and clean coding practices.
 
@@ -77,6 +77,6 @@ See [LICENSE](LICENSE) for details.
 
 Feel free to reach out via GitHub if you want to discuss algorithms, Dart, or competitive programming!
 
-
+[See my profile](https://leetcode.com/u/beofYQAFUx/)
 
 
