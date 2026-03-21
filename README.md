@@ -44,18 +44,6 @@ For each problem:
 
 ---
 
-## ⚡ How to Run
-
-1. Install [Dart SDK](https://dart.dev/get-dart)  
-2. Navigate to the folder containing the solution  
-3. Run the solution:
-
-```bash
-dart 1_two_sum.dart
-````
-
----
-
 ## 🤝 Contributing
 
 Contributions and suggestions are welcome! You can:
