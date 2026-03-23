@@ -44,13 +44,6 @@ Contributions and suggestions are welcome! You can:
 
 ---
 
-## 📄 License
-
-This project is open source under the **MIT License**.
-See [LICENSE](LICENSE) for details.
-
----
-
 ## ✨ Connect
 
 Feel free to reach out via GitHub if you want to discuss algorithms, Dart, or competitive programming!
